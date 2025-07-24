@@ -1,2 +1,2 @@
-# trade-neuro-frontend
-Frontend for Trade Neuro app
+# Trade Neuro Frontend
+This is the frontend for Trade Neuro.
